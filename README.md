@@ -1,1 +1,3 @@
+# Gender Classification using ResNet50, InceptionV3, and Xception 👨‍🦱👩‍🦱
+
 Gender classification models using pre-trained models such as ResNet50, InceptionV3, and Xception using this dataset: https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset?select=Training on kaggle. Due to computation limit, only 20% of the dataset for training and validation are used for the models. There are code for visualization of the accuracy and loss metrics, also confusion matrix and classification report for all the models. Based on training and validation accuracy, ResNet50 results in the lowest accuracy compared to the other two models. Resulting in ±70% accuracy, while InceptionV3 and Xception were able to reach more than 90% accuracy. 
